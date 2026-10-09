@@ -5,7 +5,7 @@ QuoteVerse is a modern, responsive quote generator designed to make discovering 
 
 ## Live Demo
 
-Add your deployed Vercel URL here.
+https://flashcard-quiz-app-mkfr.vercel.app/
 
 ## Features
 
@@ -121,8 +121,5 @@ Developed as part of the CodeAlpha App Development Internship.
 
 Ulfat Kiran
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/ulfat-kiran
 
----
-
-Made with React, creativity, and a little inspiration.
