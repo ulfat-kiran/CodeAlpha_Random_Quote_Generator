@@ -4,8 +4,7 @@
 QuoteVerse is a modern, responsive quote generator designed to make discovering daily inspiration simple and enjoyable. It brings together elegant typography, a clean interface, and useful features in one application.
 
 ## Live Demo
-
-https://flashcard-quiz-app-mkfr.vercel.app/
+https://quotegenerator-rosy.vercel.app/
 
 ## Features
 
